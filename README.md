@@ -22,5 +22,5 @@ A colorful calculator I built while learning Python and Tkinter! 😊
   - "." button won't let you add two dots (like "5..2")  
 
 ## 📸 Picture of My Calculator  
-![My Calculator Screen](Screenshot 2025-08-02 235053.png)  
+![My Calculator Screen]([Screenshot 2025-08-02 235053.png](https://github.com/NeelPawshe/Simple-Calculator-Tkinter/blob/main/Screenshot%202025-08-02%20235053.png?raw=true))  
  
